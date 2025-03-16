@@ -1,0 +1,1 @@
+rm -rf /opt/dotnet-api /root/.setup-done /root/repo_url.txt /root/repo_branch.txt /root/update-dotnet-api.sh /etc/init.d/dotnet-api-update
